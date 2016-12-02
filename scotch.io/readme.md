@@ -448,5 +448,5 @@ $ npm run app
 And you should see our basic 'wonderful' Stop Watch.
 
 ###Conclusion
-The applications of *Electron* are endless, if you are able to cleare a website you can make everything. This was just a easy example but i have to say that i enjoyed and i hope that you also like it. Never then less *Electron* is used by big companies, you can check them in its app [section](http://electron.atom.io/apps/).
+The applications of *Electron* are endless, if you are able to create a website you can make everything. This was just a easy example but i have to say, i really enjoyed did it and i hope that you also like it. Never than less *Electron* is used by big companies, you can check them in its app [section](http://electron.atom.io/apps/).
 
