@@ -1,0 +1,34 @@
+body{
+  background-color: #F5F5F5;
+}
+
+.mld-item--centered{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.float--right{
+  float: right;
+}
+
+.text--center{
+  text-align: center;
+}
+
+#time{
+  /* the font will be resized based on the with of the window */
+  font-size: 20vw;
+}
+
+.full-width{
+  width: 100%;
+}
+
+.p-5{
+  padding: 5px;
+}
+
+.m-0{
+  margin: 0;
+}
