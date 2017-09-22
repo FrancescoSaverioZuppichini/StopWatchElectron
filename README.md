@@ -1,5 +1,5 @@
-#Stop Watch with Electron
-###An easy application made with Electron, React and Material Design Lite for scotch.io by Francesco Saverio Zuppichini
+# Stop Watch with Electron
+### An easy application made with Electron, React and Material Design Lite for scotch.io by Francesco Saverio Zuppichini
 #### Repository Structure
 
 ```bash
